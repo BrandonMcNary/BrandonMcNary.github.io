@@ -58,7 +58,7 @@ body.dark { background-color: #141414; color: #878787; }
 .dark #header .social_links li.rss a{ background-position:0 0; }
 .dark #header .social_links li.fb a{ background-position: -22px 0; }
 .dark #header .social_links li.tw a{ background-position: -44px 0; }
-.dark #header .social_links li.gplus a{ background-position: -66px 0; }
+.dark #header .social_links li.gi a{ background-position: -66px 0; }
 .dark #header .social_links li.lnkd a{ background-position: -88px 0; }
 .dark #header .social_links li.drb a{ background-position: -110px 0; }
 .dark #header .social_links li.vim a{ background-position: -132px 0; }
@@ -70,7 +70,7 @@ body.dark { background-color: #141414; color: #878787; }
 .dark #header .social_links li.rss a:hover{ background-position:0 -22px; }
 .dark #header .social_links li.fb a:hover{ background-position: -22px -22px; }
 .dark #header .social_links li.tw a:hover{ background-position: -44px -22px; }
-.dark #header .social_links li.gplus a:hover{ background-position: -66px -22px; }
+.dark #header .social_links li.gi a:hover{ background-position: -66px -22px; }
 .dark #header .social_links li.lnkd a:hover{ background-position: -88px -22px; }
 .dark #header .social_links li.drb a:hover{ background-position: -110px -22px; }
 .dark #header .social_links li.vim a:hover{ background-position: -132px -22px; }
@@ -125,7 +125,7 @@ body.dark { background-color: #141414; color: #878787; }
 .dark #post_social_share li.rss a, .dark #post_social_share li.rss a:hover{ background-position:0 -22px; }
 .dark #post_social_share li.fb a, .dark #post_social_share li.fb a:hover{ background-position: -22px -22px; }
 .dark #post_social_share li.tw a, .dark #post_social_share li.tw a:hover{ background-position: -44px -22px; }
-.dark #post_social_share li.gplus a, .dark #post_social_share li.gplus a:hover{ background-position: -66px -22px; }
+.dark #post_social_share li.gi a, .dark #post_social_share li.gi a:hover{ background-position: -66px -22px; }
 .dark #post_social_share li.lnkd a, .dark #post_social_share li.lnkd a:hover{ background-position: -88px -22px; }
 .dark #post_social_share li.drb a, .dark #post_social_share li.drb a:hover{ background-position: -110px -22px; }
 .dark #post_social_share li.vim a, .dark #post_social_share li.vim a:hover{ background-position: -132px -22px; }
